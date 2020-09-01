@@ -1,0 +1,31 @@
+body {
+    background-color: grey;
+    font-family: ariel;
+}
+
+main {
+    height: 300px;
+    width: 500px;
+    background-color: pink;
+    border-radius: 10px;
+}
+
+.Hello {
+    margin-top: 5%;
+    line-height: 80px;
+    font-size: 60px;
+    text-align: center;
+}
+
+.MNI {
+    font-size: 20px;
+    line-height: 10px;
+    text-align: center;
+}
+
+.WS {
+    background-color: white;
+    height: 145px;
+    width: 500px;
+    margin-top: 5%;
+}
