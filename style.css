@@ -23,6 +23,7 @@ main {
     line-height: 10px;
     font-family: Girassol;
     text-align: center;
+        
 }
 
 .WS {
@@ -32,9 +33,15 @@ main {
     margin-top: 5%;
 }
 
-.Charla {
+#your-name-here {
     font-size: 70px;
     font-family: Mansalva;
     text-align: center;
     line-height: 140px;
+}
+
+.updateInfo{
+    text-align: center;
+    line-height: 35px;
+    ;
 }
